@@ -1,0 +1,2 @@
+- default로 `<div id="root"></div<` 안 쪽으로 렌더링이 된다.
+- `./src/inddx.js`에서 수정가능하다.  
